@@ -1,0 +1,1 @@
+The objective of this project is to develop a machine learning model using neural networks to predict house prices based on various features of houses in California. The model will be built using TensorFlow Keras, and we will evaluate its performance using K-Fold cross-validation to ensure robustness and generalizability.
